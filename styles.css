@@ -86,3 +86,11 @@ body, html {
     top: -370px;
     width: 1500px;
 }
+
+.albumspopulares {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: -400px;
+    color: chocolate;
+}
