@@ -2,10 +2,87 @@ body, html {
     background-color: bisque;
 }  
 
-
-.textoColegio {
+.colegio {
     display: flex;
     position: relative;
     top: -300px;
     right: -320px;
+    width: 1500px;
+    font-size: 30px;
+}
+
+
+.textoLate {
+    display: flex;
+    position: relative;
+    top: -550px;
+    right: -320px;
+    width: 1500px;
+    font-size: 30px;
+}
+
+.latefoto {
+    display: flex;
+    position: relative;
+    top: -300px;
+    
+}
+
+.latefoto img {
+    display: flex;
+    position: relative;
+    right: 240px;
+    top: 60px;
+}
+
+.BemVindoLindo {
+    background-color: burlywood;
+    color: white;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    right: 10px;
+    top: -10px;
+}
+
+.artista {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: chocolate;
+}
+
+.yemaisconhecido {
+    position: relative;
+    display: flex;
+    right: -320px;
+    font-size: 30px;
+    width: 1500px;
+    top: -100;
+}
+
+.fotoyegrammy {
+    display: flex;
+    margin-top: -170px;
+}
+
+.alemdisso {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -320px;
+    top: -320px;
+    width: 1500px;
+}
+
+.seuestilo {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -320px;
+    top: -370px;
+    width: 1500px;
 }
