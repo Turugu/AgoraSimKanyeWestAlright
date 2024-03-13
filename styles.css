@@ -5,7 +5,7 @@ body, html {
 .colegio {
     display: flex;
     position: relative;
-    top: -300px;
+    top: -710px;
     right: -320px;
     width: 1500px;
     font-size: 30px;
@@ -15,7 +15,7 @@ body, html {
 .textoLate {
     display: flex;
     position: relative;
-    top: -550px;
+    top: -920px;
     right: -320px;
     width: 1500px;
     font-size: 30px;
@@ -24,14 +24,14 @@ body, html {
 .latefoto {
     display: flex;
     position: relative;
-    top: -300px;
+    top: -650px;
     
 }
 
 .latefoto img {
     display: flex;
     position: relative;
-    right: 240px;
+    right: 244px;
     top: 60px;
 }
 
@@ -46,6 +46,7 @@ body, html {
     width: 100%;
     right: 10px;
     top: -10px;
+    font-size: 25px;
 }
 
 .artista {
@@ -53,6 +54,8 @@ body, html {
     display: flex;
     justify-content: center;
     color: chocolate;
+    margin-top: 50px;
+    font-size: 20px;
 }
 
 .yemaisconhecido {
@@ -93,4 +96,76 @@ body, html {
     justify-content: center;
     top: -400px;
     color: chocolate;
+    font-size: 20px;
+}
+
+.colegiodrop {
+    position: relative;
+    display: flex;
+    top: -440px;
+    margin-top: 20px;
+}
+
+.colegiodrop img {
+    position: relative;
+    display: flex;
+    right: 290px;
+    top: 60px;
+}
+
+.graduacaofoto {
+    position: relative;
+    display: flex;
+    top: -750px;
+}
+
+.graduacaofoto img{
+    position: relative;
+    display: flex;
+    right: 160px;
+    top: 60px;
+}
+
+.graduation {
+    display: flex;
+    position: relative;
+    top: -1020px;
+    right: -320px;
+    width: 1500px;
+    font-size: 30px;
+}
+
+.coracao {
+    display: flex;
+    position: relative;
+    top: -950px;
+}
+
+.coracao img {
+    position: relative;
+    display: flex;
+    right: 260px;
+    top: 60px;
+}
+
+.textocoracao {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -320px;
+    top: -1220px;
+    width: 1500px;
+}
+
+.github {
+    position: relative;
+    display: flex;
+    margin-top: -150px;
+}
+
+.instagram {
+    position: relative;
+    display: flex;
+    top: -52px;
+    right: -60px;
 }
