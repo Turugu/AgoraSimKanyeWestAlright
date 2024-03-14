@@ -168,4 +168,206 @@ body, html {
     display: flex;
     top: -52px;
     right: -60px;
+    width: 10px;
+}
+
+.mybiutiful {
+    position: relative;
+    display: flex;
+    top: -1100px;
+}
+
+.mybiutiful img {
+    position: relative;
+    display: flex;
+    right: 490px;
+    top: 60px;
+}
+
+.runaway {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -320px;
+    top: -1360px;
+    width: 1500px;
+}
+
+.jesus {
+    position: relative;
+    display: flex;
+    top: -1300px;
+}
+
+.jesus img {
+    position: relative;
+    display: flex;
+    right: 92px;
+    top: 60px;
+}
+
+.sexto {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -330px;
+    top: -1560px;
+    width: 1500px;
+}
+
+.avidadepablo img {
+    position: relative;
+    display: flex;
+    right: 230px;
+    top: 60px;
+}
+
+.avidadepablo {
+    position: relative;
+    display: flex;
+    top: -1400px;
+}
+
+.setimo {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -330px;
+    top: -1670px;
+    width: 1500px;
+}
+
+.yes img {
+    position: relative;
+    display: flex;
+    right: 40px;
+    top: 60px;
+}
+
+.yes {
+    position: relative;
+    display: flex;
+    top: -1600px;
+}
+
+.oito {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -330px;
+    top: -1875px;
+    width: 1500px;
+}
+
+.nove {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -330px;
+    top: -1950px;
+    width: 1500px;
+}
+
+.jesusisking img {
+    position: relative;
+    display: flex;
+    right: 190px;
+    top: 60px;
+}
+
+.jesusisking {
+    position: relative;
+    display: flex;
+    top: -1700px;
+}
+
+.Donda img {
+    position: relative;
+    display: flex;
+    right: 90px;
+    top: 60px;
+}
+
+.Donda {
+    position: relative;
+    display: flex;
+    top: -1750px;
+}
+
+.dez {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -330px;
+    top: -2020px;
+    width: 1500px;
+}
+
+.lindodmsslk {
+    position: relative;
+    display: flex;
+    width: 600px;
+    font-size: 30px;
+    right: -110px;
+    color: palevioletred;
+    top: -1950px;
+}
+
+.lindodmsslk img {
+    position: relative;
+    display: flex;
+    right: 260px;
+    top: 100px;
+}
+
+.SobreAutor {
+    justify-content: center;
+    position: relative;
+    display: flex;
+    font-size: 20px;
+    color: chocolate;
+    top: -1900px;
+}
+
+.textovictor {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -420px;
+    top: -2280px;
+    width: 1400px;
+}
+
+.textovictor2 {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -420px;
+    top: -2340px;
+    width: 1400px;
+}
+
+.textovictor3 {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    right: -420px;
+    top: -2400px;
+    width: 1400px;
+}
+
+.textovictor4 {
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    top: -2460px;
+    width: 1450px;
+}
+
+.bebevictor {
+    position: relative;
+    display: flex;
+    top: -2825px;
+    width: 10px;
+    right: -1450px;
 }
